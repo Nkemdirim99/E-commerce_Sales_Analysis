@@ -9,8 +9,14 @@ The Dataset used for this analysis is the "Service Provider New Version.xlsx
 
 ### Tools
 - EXCEL -Data Cleaning
- - [Download here](https://microsoft.com)
--My SQ L- Data Analysis
--PowerBI - Data Visualisation
+  - [Download here](https://microsoft.com)
+- MySQL- Data Analysis
+- PowerBI - Data Visualisation
 
-### Exploratory Data Analysis
+### Data Cleaning
+In the preparation of the dataset for analysis we performed the following task;  
+1. Removal of duplicates
+2. Handling missing values with XLOOKUP
+3. Change values their appropriate format 
+
+### Exploratory Data Analysis 
