@@ -20,3 +20,23 @@ In the preparation of the dataset for analysis we performed the following task;
 3. Change values their appropriate format 
 
 ### Exploratory Data Analysis 
+The data was explored to answer key questions such as; 
+- What was the monthly sales trend
+- What were the top performing categories
+- What were the peak sales period
+
+### Data Analysis 
+
+```MYSQL
+SELECT Payment_Date, Amount FROM Service_Provider_Table
+WHERE category = 'betting'
+```
+
+### Dashboard
+![Screenshot (4)](https://github.com/user-attachments/assets/2a524b14-2766-442a-80cb-0973f0f560f4) 
+
+### Findings/Results 
+
+
+### Recommendations
+
